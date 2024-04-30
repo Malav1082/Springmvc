@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="33ba99d1-186b-466d-99a5-142f431a0064" />
+          <option name="name" value="test" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="id" value="20538739-1724-4877-b365-b481e996e055" />
+                <option name="method" value="GET" />
+                <option name="name" value="Test" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="D:\Java Training\Task 5\springmvc\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="b93f7e2a-8f82-4e87-a0f3-43875c281e6f" />
+  </component>
+</project>
